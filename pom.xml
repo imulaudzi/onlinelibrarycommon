@@ -5,7 +5,12 @@
   <groupId>OnlineLibraryCommonModule</groupId>
   <artifactId>OnlineLibraryCommonModule</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+    <modules>
+        <module>OnlineLibraryPersistence</module>
+        <module>OnlineLibraryDomainModel</module>
+        <module>OnlineLibraryBusinessModule</module>
+    </modules>
+    <packaging>pom</packaging>
 
   <name>OnlineLibraryCommonModule</name>
   <url>http://maven.apache.org</url>

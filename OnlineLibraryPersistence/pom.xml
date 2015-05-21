@@ -10,7 +10,7 @@
     <artifactId>OnlineLibraryPersistence</artifactId>
     <packaging>jar</packaging>
 
-    <name>OnlineLibraryPersistence</name>
+    <name>OnlineLibraryPersistence [JAR]</name>
     <url>http://maven.apache.org</url>
 
     <properties>

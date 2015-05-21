@@ -10,7 +10,7 @@
     <artifactId>OnlineLibraryDomainModel</artifactId>
     <packaging>jar</packaging>
 
-    <name>OnlineLibraryDomainModel</name>
+    <name>OnlineLibraryDomainModel [JAR]</name>
     <url>http://maven.apache.org</url>
 
     <properties>

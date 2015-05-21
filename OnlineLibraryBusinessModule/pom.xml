@@ -10,7 +10,7 @@
     <artifactId>OnlineLibraryBusinessModule</artifactId>
     <packaging>jar</packaging>
 
-    <name>OnlineLibraryBusinessModule</name>
+    <name>OnlineLibraryBusinessModule [JAR]</name>
     <url>http://maven.apache.org</url>
 
     <properties>
